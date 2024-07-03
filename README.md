@@ -1,8 +1,8 @@
-<div align="center">
+<h1 align="center">
 
  Welcome to Aditya's Lab
 
-</div>
+</h1>
 
 <div style="text-align:center;">
   <img src="Aditya_Patane.png" alt="Aditya's Photo" style="display: block; margin-left: 100; margin-right: 0;">
