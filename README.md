@@ -10,7 +10,7 @@ Hello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Co
 
 ## Projects
 
-### Using deep learning for natural feature detection such as river,basin,lake detetction.
+### Using deep learning for natural feature detection such as river,basin,lake detection.
 
 
 ## Blog
