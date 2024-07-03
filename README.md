@@ -1,4 +1,4 @@
-<h1 align="center">wwwwwWelcome to Aditya's Lab</h1>
+<h1 align="center">wWelcome to Aditya's Lab</h1>
 
 <p align="center">
   <img src="Aditya_Patane.png" alt="Aditya's Photo">
