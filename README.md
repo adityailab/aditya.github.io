@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Computer Vision. My work focuses on developing innovative solutions and pushing the boundaries of what's possible with AI.
+hHello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Computer Vision. My work focuses on developing innovative solutions and pushing the boundaries of what's possible with AI.
 
 ## Projects
 
