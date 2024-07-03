@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align:center;">
-  <img src="Aditya_Patane.png" alt="Aditya's Photo" style="display: block; margin-left: auto; margin-right: 0;">
+  <img src="Aditya_Patane.png" alt="Aditya's Photo" style="display: block; margin-left: auto; margin-right: 20;">
 </div>
 
 ## About Me
