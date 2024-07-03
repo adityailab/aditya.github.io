@@ -4,7 +4,7 @@
 # Welcome to Aditya's Lab
 
 
-![Banner Image](https://drive.google.com/file/d/1SLLi0mPclV8KPI5wUdKCjPbl3lIrRaJB/view?usp=drive_link.jpg)
+(https://drive.google.com/file/d/1SLLi0mPclV8KPI5wUdKCjPbl3lIrRaJB/view?usp=drive_link.jpg)
 
 ## About Me
 
