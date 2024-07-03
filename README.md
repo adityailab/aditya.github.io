@@ -1,4 +1,4 @@
-<h1 align="center">wWelcome to Aditya's Lab</h1>
+<h1 align="center">Welcome to Aditya's Lab</h1>
 
 <p align="center">
   <img src="Aditya_Patane.png" alt="Aditya's Photo">
@@ -6,18 +6,12 @@
 
 ## About Me
 
-hHello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Computer Vision. My work focuses on developing innovative solutions and pushing the boundaries of what's possible with AI.
+Hello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Computer Vision.
 
 ## Projects
 
-### Deep Vision Network
-A project focused on creating advanced neural networks for image recognition and classification.
+### Using deep learning for natural features such as river,basin,lake detetction using YOLOv8.
 
-### Autonomous Driving AI
-Developing computer vision algorithms for autonomous vehicles to navigate and understand their environment.
-
-### Medical Imaging Analysis
-Using deep learning to assist in the analysis of medical images for faster and more accurate diagnoses.
 
 ## Blog
 
