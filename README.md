@@ -26,7 +26,7 @@ In this post, I explore the latest advancements in computer vision technology an
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle).
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/adityapatane123).
 
 ---
 
