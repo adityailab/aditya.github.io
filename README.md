@@ -1,8 +1,4 @@
-<div style="text-align:center;">
-
-                                                      Welcome to Aditya's Lab
-
-</div>
+<h1 align="center">Welcome to Aditya's Lab</h1>
 
 <p align="center">
   <img src="Aditya_Patane.png" alt="Aditya's Photo">
@@ -34,4 +30,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adityapat
 
 ---
 
-© 2024 Aditya's AI Lab. All rights reserved.
+<p align="center">© 2024 Aditya's AI Lab. All rights reserved.</p>
