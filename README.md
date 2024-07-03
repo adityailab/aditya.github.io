@@ -2,7 +2,7 @@
 # Welcome to Aditya's Lab
 
 
-![Aditya's Photo](Aditya_Patane.png
+![Aditya's Photo](Aditya_Patane.png)
 
 ## About Me
 
