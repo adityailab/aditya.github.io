@@ -1,5 +1,4 @@
-
-                                      # Welcome to Aditya's Lab
+#                                     Welcome to Aditya's Lab
 
 
 ![Aditya's Photo](Aditya_Patane.png)
