@@ -16,7 +16,7 @@ Hello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Co
 ## Blog
 
 ### Latest Post: Advances in Computer Vision
-In this post, I explore the latest advancements in computer vision technology and how they are transforming various industries. [Read more](link/to/your/blog/post).
+In this post, I explore 
 
 ## Contact
 
