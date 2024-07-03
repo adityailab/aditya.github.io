@@ -1,7 +1,12 @@
-#                                        Welcome to Aditya's Lab
+<div style="text-align:center;">
 
+  # Welcome to Aditya's Lab
 
-![Aditya's Photo](Aditya_Patane.png)
+</div>
+
+<p align="center">
+  <img src="Aditya_Patane.png" alt="Aditya's Photo">
+</p>
 
 ## About Me
 
@@ -25,7 +30,7 @@ In this post, I explore the latest advancements in computer vision technology an
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/adityapatane123).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adityapatane123).
 
 ---
 
