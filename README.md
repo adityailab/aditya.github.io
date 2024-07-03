@@ -1,10 +1,8 @@
 
-
-
 # Welcome to Aditya's Lab
 
 
-(Aditya_Patane.png)
+![Aditya's Photo](Aditya_Patane.png
 
 ## About Me
 
@@ -32,4 +30,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofi
 
 ---
 
-© 2024 Aditya's Vision Lab. All rights reserved.
+© 2024 Aditya's AI Lab. All rights reserved.
