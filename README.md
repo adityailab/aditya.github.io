@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Computer Vision.
+Hello! I'm Aditya, currently pursuing master of technology at Indian Institute of Technology,Bombay. I am interested in the fields of Deep Learning and Computer Vision.
 
 ## Projects
 
@@ -21,6 +21,8 @@ Hello! I'm Aditya, a passionate researcher in the fields of Deep Learning and Co
 ### Latest Post: Advances in Computer Vision
 In this post, I explore 
 
+## curriculum vitae
+[ CV ](https://drive.google.com/file/d/1Vu0J8hlbiXNy1AIAknnJMe2JOYgtmj5r/view?usp=drive_link).
 ## Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adityapatane123).
