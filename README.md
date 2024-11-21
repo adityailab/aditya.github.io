@@ -14,12 +14,14 @@ Hello! I'm Aditya, currently pursuing master of technology at Indian Institute o
 
 ## Projects
 
-### Using deep learning for detection of natural features such as river, basin, lake.
+### • Neural Style Transfer for Fashion Design Innovation Oct’23-Dec’23
+◦ Leveraged transfer learning with VGG19 network to execute style transfer, significantly enhancing fashion designs
+◦ Experimented with 10+ layer combinations to optimize NST, achieving impactful results in fashion design
+◦ Optimized the model to minimize variational loss, achieving high-quality images with a 25% improvement
 
 ## Blog
 
-### Latest Post: Advances in Computer Vision
-In this post, I explore 
+
 
 ## curriculum vitae
 [ CV ](https://drive.google.com/file/d/1CTrs5cs01c6iyOzhbbEwiRIMd7WLmZfk/view?usp=drive_link).
