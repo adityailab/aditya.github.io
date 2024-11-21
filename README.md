@@ -19,6 +19,15 @@ Hello! I'm Aditya, currently pursuing master of technology at Indian Institute o
 ◦ Experimented with 10+ layer combinations to optimize NST, achieving impactful results in fashion design
 ◦ Optimized the model to minimize variational loss, achieving high-quality images with a 25% improvement
 
+• Geomorphological Features Detection using YOLOv5 Jan’24-Apr’24
+◦ Fine-tuned YOLOv5 architecture for detecting geomorphological landforms in satellite images and DEMs
+◦ Augmented and trained on the GeoimageNet dataset, leveraging 10,000+ images for enhanced image analysis
+◦ Achieved mAP50 of 0.72 after 200 epoch and deployed the program using Streamlit, creating user-friendly UI
+
+• Hands-On with Pix2Pix : GANs for Map generation from aerial imagery May’24-Jul’24
+◦ Developed a Pix2Pix GAN model for aerial image-to-image translation, converting aerial images into maps
+◦ Implemented & trained a Pix2Pix model using CMP Facade Dataset to enhance map image synthesis capabilities
+◦ Evaluated & optimized GAN performance, achieving improved results in generation tasks through analysis
 ## Blog
 
 
