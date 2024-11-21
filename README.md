@@ -22,7 +22,7 @@ Hello! I'm Aditya, currently pursuing master of technology at Indian Institute o
 In this post, I explore 
 
 ## curriculum vitae
-[ CV ](https://drive.google.com/file/d/1Vu0J8hlbiXNy1AIAknnJMe2JOYgtmj5r/view?usp=drive_link).
+##[ CV ](https://drive.google.com/file/d/1Vu0J8hlbiXNy1AIAknnJMe2JOYgtmj5r/view?usp=drive_link).
 ## Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adityapatane123).
