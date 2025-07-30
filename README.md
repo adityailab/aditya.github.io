@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hello! I'm Aditya, currently pursuing master of technology at Indian Institute of Technology,Bombay. I am interested in the fields of Deep Learning, LLM and Computer Vision.
+Hello! I'm Aditya, currently pursuing master of technology at Indian Institute of Technology,Bombay. I am interested in the field anything related to engineering.
 
 
 
