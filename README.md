@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hello! I'm Aditya, currently pursuing master of technology at Indian Institute of Technology,Bombay. I am interested in the field anything related to engineering.
+Hello! I'm Aditya, currently pursuing master of technology at Indian Institute of Technology,Bombay. I am interested in the field of anything related to engineering.
 
 
 
